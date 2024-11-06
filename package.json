@@ -1,0 +1,17 @@
+{
+  "name": "ratemyprofessor",
+  "version": "1.0.0",
+  "description": "Technologies used :",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  }
+}
